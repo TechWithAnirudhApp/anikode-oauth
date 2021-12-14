@@ -1,0 +1,7 @@
+{
+    "name": "oauth-example",
+    "version": "0.1.0",
+    "scripts": {
+        "build": "cd functions && npm install"
+    }
+}
